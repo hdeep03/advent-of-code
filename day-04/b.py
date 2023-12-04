@@ -27,6 +27,6 @@ def main():
         for index in range(i+1, i+new_cards+1):
             cards[index] += cards[i]
         print(cards)
-    print(cards)
+    print(sum(cards))
 
 main()
