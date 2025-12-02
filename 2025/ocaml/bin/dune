@@ -1,0 +1,1 @@
+(executables (names day01) (libraries core))
